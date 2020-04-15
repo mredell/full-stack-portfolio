@@ -1,0 +1,52 @@
+h2{
+    text-align: center;
+    font-family: 'Stardos Stencil', cursive;
+}
+
+table{
+    text-align: center;
+    margin: auto;
+    height: 300px;
+    width: 900px;
+}
+
+td{
+    margin: 50px;
+    border: 5px solid white;
+}
+
+#one{
+    background: #7CB518;
+}
+
+#two{
+    background: #3C5A14;
+}
+
+#three{
+    background: #321325;
+}
+
+#four{
+    background: #2E0219;
+}
+
+#five{
+    background: #6E1B42;
+}
+
+h1{
+    text-align: center;
+    border: 4px solid #3C5A14;
+    width: 25%;
+    margin: auto;
+    font-family: 'Stardos Stencil', cursive;
+    color: #7CB518;
+    background: #2E0219;
+}
+
+.wrapper{
+    text-align: center;
+    margin-top: 10px;
+
+}
